@@ -1,0 +1,1 @@
+<?php echo $recipient; ?>. This Tweet is encrypted. Friends can read it here <?php echo $shorturl; ?> #CryptoTweet

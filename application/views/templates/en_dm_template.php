@@ -1,0 +1,1 @@
+Hi <?php echo $recipient_name; ?>, this Tweet from <?php echo $screenname; ?> is encrypted. You can read it here <?php echo $shorturl; ?>
